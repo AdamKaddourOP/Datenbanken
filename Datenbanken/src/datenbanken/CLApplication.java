@@ -50,6 +50,9 @@ public class CLApplication {
 }
 
 
+
+
+
 //Schritt 3: Schließen der Verbindung zur Datenbank
 // Aufgabe Seite 5 Ausführen von SQL-Statements (ohne Rückgabewert) 
 /*String createSchemaSQL = "CREATE SCHEMA IF NOT EXISTS neuesSchema";
